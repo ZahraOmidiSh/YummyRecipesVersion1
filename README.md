@@ -29,8 +29,7 @@ Design inspired by [SideChef App]([SideChef: Recipes & Meal Plans - Apps on Goog
 
 
 
-## Dependencies 
-
+## Dependencies
 -   Kotlin Coroutines
 -   Lifecycle
 -   View Binding
